@@ -22,6 +22,11 @@
         <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/LC044/WeChatMsg/total?color=3eb370">
     </a>
 </div>
+<div align="center">
+    
+微信+QQ聊天记录分析工具，使用说明：https://intumu.com/article/274
+
+</div>
 
 <div align="center">
     <a href="https://memotrace.cn/"><img src="https://memotrace.cn/img/logo%20-%20%E5%89%AF%E6%9C%AC.png" height="240"/></a>
